@@ -1,0 +1,6 @@
+export const ERROR = "ERROR";
+export const ALLUSERS = "ALLUSERS";
+export const CREATEUSERS='CREATEUSERS';
+export const DELETEUSERS='DELETEUSERS';
+export const SINGLEUSERS='SINGLEUSERS';
+export const UPDATEUSERS='UPDATEUSERS';
